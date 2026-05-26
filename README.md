@@ -55,6 +55,7 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Vinayduggar27
+- instagram: https://instagram.com/_vinay_duggar
 
 ---
 
