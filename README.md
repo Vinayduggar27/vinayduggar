@@ -3,7 +3,7 @@
 <h3 align="center">B.Tech CSE Student | Python Developer | DSA Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;DSA+Enthusiast;Learning+Web+Development;Building+Projects+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;DSA+Enthusiast;Learning+Web+Development;Building+Projects" alt="Typing SVG" />
 </p>
 
 ---
@@ -51,13 +51,6 @@
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayduggar27&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🧠 Currently Learning
 
