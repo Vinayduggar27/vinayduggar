@@ -10,25 +10,15 @@
 
 ## 🚀 About Me
 
-```python
-class VinayDuggar:
-    
-    def __init__(self):
-        self.role = "B.Tech CSE Student"
-        self.language = ["Python", "C", "C++"]
-        self.learning = ["DSA", "Web Development", "Git"]
-        self.interests = ["Software Development", "AI", "Open Source"]
+🎓 B.Tech CSE @ BML Munjal University
 
-    def goals_2026(self):
-        return [
-            "Build strong projects",
-            "Master DSA",
-            "Contribute to Open Source",
-            "Get Internship"
-        ]
+💻 Python Developer | DSA Enthusiast
 
-me = VinayDuggar()
-```
+🌱 Learning Web Development & Open Source
+
+🚀 Building Projects and Sharpening Problem-Solving Skills
+
+⚡ Turning ideas into code, one project at a time.
 
 ---
 
@@ -74,7 +64,6 @@ me = VinayDuggar()
 - Data Structures & Algorithms
 - Problem Solving
 - Git & GitHub
-- Frontend Development
 - Python Projects
 
 ---
@@ -84,8 +73,7 @@ me = VinayDuggar()
 | Project | Description |
 |----------|-------------|
 | 🧮 Calculator App | Basic calculator using Python |
-| ✅ To-Do App | Task manager project |
-| 🌦️ Weather App | Weather API project |
+| ⚡ Urja Setu | A citizen-government connectivity platform where villagers can submit complaints, raise community issues, and track their resolution status through a transparent digital system. |
 | 📚 DSA Repository | Coding practice solutions |
 
 ---
