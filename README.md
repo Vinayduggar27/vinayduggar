@@ -66,8 +66,8 @@
 | Project | Description |
 |----------|-------------|
 | 🧮 Scientific Calculator App | Scientific calculator using Python |
-| 🧠 InterviewIQ | AT-powered mock interview platform that generates role-specific questions, evaluates answers, and provides intelligent feedback to help users improve and ace real interviews. |
-| 🖱️⌨️ AI Virtual Mouse & Keyboard | AT-powered virtual mouse and keyboard using hand gestures and computer vision for touch-free control and automation. |
+| 🧠 InterviewIQ | AI-powered mock interview platform that generates role-specific questions, evaluates answers, and provides intelligent feedback to help users improve and ace real interviews. |
+| 🖱️⌨️ AI Virtual Mouse & Keyboard | AI-powered virtual mouse and keyboard using hand gestures and computer vision for touch-free control and automation. |
 | ⚡ Urja Setu | A citizen-government connectivity platform where villagers can submit complaints, raise community issues, and track their resolution status through a transparent digital system. |
 | 📚 DSA Repository | Coding practice solutions |
 
